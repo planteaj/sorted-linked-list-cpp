@@ -1,0 +1,19 @@
+#include <fstream>
+#include "ItemType.h"
+
+ItemType::ItemType(){
+  value = 0;
+}
+
+Comparison ItemType::compareTo(ItemType item){
+  if (value < item.value)
+    return LESS;
+  else if(value > item.value)
+    return GREATER;
+  else return EQUAL;
+}
+
+void ItemType::initialize(int number)
+{
+  value = number;
+}

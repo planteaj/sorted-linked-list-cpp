@@ -1,0 +1,25 @@
+Plante_assignment2:
+total 124
+-rw-r--r--. 1 myid     0 Jun 24 17:32 empty.txt
+-rw-r--r--. 1 myid    29 Jun 24 17:30 input.txt
+-rw-r--r--. 1 myid   356 Jun 24 17:28 ItemType.cpp
+-rw-r--r--. 1 myid   304 Jun 24 16:10 ItemType.cpp~
+-rw-r--r--. 1 myid   265 Jun 24 16:15 ItemType.h
+-rw-r--r--. 1 myid   263 Jun 24 16:05 ItemType.h~
+-rw-r--r--. 1 myid  1712 Jun 24 20:22 ItemType.o
+-rw-r--r--. 1 myid   127 Jun 23 14:57 ListNode.h
+-rw-r--r--. 1 myid   105 Jun 23 14:53 ListNode.h~
+-rwxr-xr-x. 1 myid 19400 Jun 24 20:22 main
+-rwxr-xr-x. 1 myid 19400 Jun 24 20:12 Main
+-rw-r--r--. 1 myid  2544 Jun 24 20:12 main.cpp
+-rw-r--r--. 1 myid  2418 Jun 24 20:02 main.cpp~
+-rw-r--r--. 1 myid 10408 Jun 24 20:22 main.o
+-rw-r--r--. 1 myid   311 Jun 24 20:21 Makefile
+-rw-r--r--. 1 myid   123 Jun 24 20:25 Readme.txt
+-rw-r--r--. 1 myid     0 Jun 24 20:28 rec919
+-rw-r--r--. 1 myid  2473 Jun 24 19:48 SortedLinkedList.cpp
+-rw-r--r--. 1 myid  2454 Jun 24 19:43 SortedLinkedList.cpp~
+-rw-r--r--. 1 myid   433 Jun 24 20:03 SortedLinkedList.h
+-rw-r--r--. 1 myid   451 Jun 24 19:49 SortedLinkedList.h~
+-rw-r--r--. 1 myid  5888 Jun 24 20:22 SortedLinkedList.o
+/home/myid/arp75723/Plante_assignment2:/home/myid/csci-2720

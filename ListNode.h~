@@ -1,0 +1,11 @@
+#include "ItemType.h"
+
+struct NodeType;
+
+class ListNode
+{
+ public:
+  ItemType item;
+  ListNode *next;
+
+}
